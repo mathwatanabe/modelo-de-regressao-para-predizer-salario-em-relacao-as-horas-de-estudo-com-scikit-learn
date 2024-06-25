@@ -1,0 +1,1 @@
+# modelo-de-regressao-para-predizer-salario-em-relacao-as-horas-de-estudo-com-scikit-learn
